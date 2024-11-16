@@ -7,6 +7,10 @@ This is a simple Book Listing Web Application built with the MERN stack (MongoDB
 
 View a list of books: Displays all books in the database with their title, author, and description.
 
+User can see the book list in two forms. One is in table form and other one in Cards form.
+
+User can select which view is convenient to the user.
+
 Add a new book: Allows users to submit a form to add a new book (title, author, and description).
 
 Edit the existing record: Users can edit their own records which they earlier registered.
